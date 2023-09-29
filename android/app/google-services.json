@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "426719697124",
-    "project_id": "thisismyfirstcloudproject",
-    "storage_bucket": "thisismyfirstcloudproject.appspot.com"
+    "project_number": "662512253508",
+    "project_id": "attendance-tracking-syst-67df9",
+    "storage_bucket": "attendance-tracking-syst-67df9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:426719697124:android:062b1cd60916ad51e9f4f1",
+        "mobilesdk_app_id": "1:662512253508:android:d06b0b119f3e37b2e35a11",
         "android_client_info": {
-          "package_name": "com.example.crudoperations"
+          "package_name": "com.example.ats_beat_hr_module"
         }
       },
       "oauth_client": [
         {
-          "client_id": "426719697124-i9mjgbrv33urr6mn38r0kp4jj86gp74g.apps.googleusercontent.com",
+          "client_id": "662512253508-0evhlkd756q5krd5ufhm5sruu9t8ng82.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBV1FfsxwzYQw7qmQJRokqaOojUT54GrAA"
+          "current_key": "AIzaSyDnfsKPJN21r2q6vqz76xvevq1x33dSi1o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "426719697124-i9mjgbrv33urr6mn38r0kp4jj86gp74g.apps.googleusercontent.com",
+              "client_id": "662512253508-0evhlkd756q5krd5ufhm5sruu9t8ng82.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

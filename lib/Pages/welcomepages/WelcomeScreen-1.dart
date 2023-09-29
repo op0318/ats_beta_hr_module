@@ -6,7 +6,6 @@ class welcomePageOne extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-
       child: Container(
         color: Color.fromRGBO(0, 68, 102, 10.0),
 

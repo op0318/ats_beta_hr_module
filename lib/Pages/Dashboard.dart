@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:ats_beat_hr_module/Pages/welcomepages/SplashScreen.dart';
 import 'package:flutter/material.dart';
 import './Dashboard.dart';
 class dashboard extends StatelessWidget {
